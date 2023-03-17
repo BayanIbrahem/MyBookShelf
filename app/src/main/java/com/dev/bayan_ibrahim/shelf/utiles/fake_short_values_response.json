@@ -1,0 +1,78 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 745,
+  "items": [
+    {
+      "kind": "volumn",
+      "id": "1",
+      "etag": "12",
+      "selfLink": "selfLink",
+      "volumeInfo": {
+        "title": "title",
+        "subtitle": "subtitle",
+        "authors": [
+          "Troels Andreasen",
+          "Ronald R. Yager"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2009-10-15",
+        "description": "Description",
+        "industryIdentifiers": [
+          {
+            "type": "3",
+            "identifier": "9"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 688,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "m",
+        "allowAnonLogging": false,
+        "contentVersion": "1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "url",
+          "thumbnail": "url"
+        },
+        "language": "en",
+        "previewLink": "url",
+        "infoLink": "url",
+        "canonicalVolumeLink": "url"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "no",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "url"
+        },
+        "webReaderLink": "url",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "text"
+      }
+    }
+  ]
+}
